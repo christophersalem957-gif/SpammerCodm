@@ -9,7 +9,7 @@ CHANNEL_ID = "@SliderModMenuCodm"
 bot = Bot(token=BOT_TOKEN)
 
 # 1. TEMPLATE PARA SA CODM
-CODM_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuCodm/631">Latest Update: Call of Duty v1.6.56
+CODM_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuCodm/631">Latest Update: Call of Duty v1.6.57
 Garena Injector v2.8.8
 Global Injector v1.3.1</a>
 
